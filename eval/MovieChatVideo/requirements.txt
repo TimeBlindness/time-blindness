@@ -1,0 +1,6 @@
+moviechat==0.6.3
+opencv_python==4.7.0.72
+pandas==2.2.3
+Pillow==10.0.1
+Pillow==11.2.1
+tqdm==4.64.1

@@ -1,0 +1,11 @@
+decord==0.6.0
+matplotlib==3.10.3
+numpy==2.2.6
+opencv_python_headless==4.11.0.86
+packaging==25.0
+pandas==2.2.3
+Pillow==11.2.1
+Requests==2.32.3
+torch==2.6.0
+torchvision==0.21.0
+transformers==4.51.3

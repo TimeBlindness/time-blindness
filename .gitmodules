@@ -1,0 +1,3 @@
+[submodule "eval/TimeChat"]
+	path = eval/TimeChat
+	url = https://github.com/RenShuhuai-Andy/TimeChat/
