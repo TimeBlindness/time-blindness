@@ -180,3 +180,4 @@ cython_debug/
 *.avi
 *.csv
 !static/*
+.DS_Store
